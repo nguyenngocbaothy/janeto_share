@@ -1,0 +1,16 @@
+ul{
+    list-style: none;
+    width: 50%;
+    margin-left: 70px;
+    border: 1px yellow solid;
+
+    li{
+        padding-top: 10px;  
+        cursor: pointer;
+        border-bottom: 1px black solid;
+    }
+}
+
+:host{
+    padding-top: 10px;
+}
